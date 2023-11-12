@@ -1,0 +1,15 @@
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\bin\Debug\MinesweeperGUI.exe.config
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\bin\Debug\MinesweeperGUI.exe
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\bin\Debug\MinesweeperGUI.pdb
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.csprojAssemblyReference.cache
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.Form1.resources
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.Form2.resources
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.Properties.Resources.resources
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.csproj.GenerateResource.cache
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.csproj.CoreCompileInputs.cache
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.exe
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.pdb
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\bin\Debug\GameClassLibrary.dll
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\bin\Debug\GameClassLibrary.pdb
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.csproj.CopyComplete
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\MinesweeperGUI\obj\Debug\MinesweeperGUI.Form3.resources

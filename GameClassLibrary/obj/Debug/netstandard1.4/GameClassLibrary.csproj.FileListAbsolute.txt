@@ -1,0 +1,16 @@
+c:\users\su khoi\source\repos\GameClassLibrary\GameClassLibrary\bin\Debug\netstandard1.4\GameClassLibrary.deps.json
+c:\users\su khoi\source\repos\GameClassLibrary\GameClassLibrary\bin\Debug\netstandard1.4\GameClassLibrary.dll
+c:\users\su khoi\source\repos\GameClassLibrary\GameClassLibrary\bin\Debug\netstandard1.4\GameClassLibrary.pdb
+c:\users\su khoi\source\repos\GameClassLibrary\GameClassLibrary\obj\Debug\netstandard1.4\GameClassLibrary.csproj.CoreCompileInputs.cache
+c:\users\su khoi\source\repos\GameClassLibrary\GameClassLibrary\obj\Debug\netstandard1.4\GameClassLibrary.AssemblyInfo.cs
+c:\users\su khoi\source\repos\GameClassLibrary\GameClassLibrary\obj\Debug\netstandard1.4\GameClassLibrary.dll
+c:\users\su khoi\source\repos\GameClassLibrary\GameClassLibrary\obj\Debug\netstandard1.4\GameClassLibrary.pdb
+C:\Users\Su Khoi\source\repos\GameClassLibrary\GameClassLibrary\obj\Debug\netstandard1.4\GameClassLibrary.csprojAssemblyReference.cache
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\GameClassLibrary\bin\Debug\netstandard1.4\GameClassLibrary.deps.json
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\GameClassLibrary\bin\Debug\netstandard1.4\GameClassLibrary.dll
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\GameClassLibrary\bin\Debug\netstandard1.4\GameClassLibrary.pdb
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\GameClassLibrary\obj\Debug\netstandard1.4\GameClassLibrary.csprojAssemblyReference.cache
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\GameClassLibrary\obj\Debug\netstandard1.4\GameClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\GameClassLibrary\obj\Debug\netstandard1.4\GameClassLibrary.AssemblyInfo.cs
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\GameClassLibrary\obj\Debug\netstandard1.4\GameClassLibrary.dll
+C:\Users\Su Khoi\source\repos\MinesweeperGUI\GameClassLibrary\obj\Debug\netstandard1.4\GameClassLibrary.pdb
